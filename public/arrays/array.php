@@ -40,4 +40,3 @@ $users = ['user1', 'user2', 'user3'];
 // implode(',', $arr) turn array into string
 // $output = implode(', ', $users);
 
-
